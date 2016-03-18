@@ -1,4 +1,4 @@
-apache2-liatrio Cookbook
+apache2liatrio Cookbook
 ========================
 This is a simple example wrapper cookbook that installs apache2.
 
@@ -10,19 +10,19 @@ Vagrant
 
 Usage
 -----
-#### apache2-liatrio::default
+#### apache2liatrio::default
 
 `vagrant up`
 
 or 
 
-Just include `apache2-liatrio` in your node's `run_list`:
+Just include `apache2liatrio` in your node's `run_list`:
 
 ```json
 {
   "name":"my_node",
   "run_list": [
-    "recipe[apache2-liatrio]"
+    "recipe[apache2liatrio]"
   ]
 }
 ```

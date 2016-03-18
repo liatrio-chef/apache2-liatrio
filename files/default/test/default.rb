@@ -1,12 +1,12 @@
 require 'minitest/spec'
 
-describe_recipe 'apache2-liatrio::default' do
+describe_recipe 'apache2liatrio::default' do
 
-  it "listens for imaps using sonarqube on tcp port 80" do
+  it "listens for http on tcp port 80" do
     service_is_listening("80", "Apache")
   end
 
-  it 'must match the check Apache' do
+  it 'must match the web check Apache' do
     web_check_match("http://127.0.0.1/", "Apache")
   end
 
