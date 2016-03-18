@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: apache2liatrio
+# Cookbook Name:: apache2-liatrio
 # Recipe:: default
 #
 # Copyright 2016, YOUR_COMPANY_NAME

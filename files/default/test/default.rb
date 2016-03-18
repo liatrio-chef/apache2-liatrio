@@ -1,6 +1,6 @@
 require 'minitest/spec'
 
-describe_recipe 'apache2liatrio::default' do
+describe_recipe 'apache2-liatrio::default' do
 
   it "listens for http on tcp port 80" do
     service_is_listening("80", "Apache")

@@ -1,11 +1,11 @@
-apache2liatrio CHANGELOG
+apache2-liatrio CHANGELOG
 =========================
 
-This file is used to list changes made in each version of the apache2liatrio cookbook.
+This file is used to list changes made in each version of the apache2-liatrio cookbook.
 
 0.1.0
 -----
-- Drew Holt - Initial release of apache2liatrio
+- Drew Holt - Initial release of apache2-liatrio
 
 - - -
 Check the [Markdown Syntax Guide](http://daringfireball.net/projects/markdown/syntax) for help with Markdown.
