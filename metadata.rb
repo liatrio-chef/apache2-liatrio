@@ -1,5 +1,5 @@
 name             'apache2liatrio'
-maintainer       'Liatrio"
+maintainer       'Liatrio'
 maintainer_email 'drew@liatrio.com'
 license          'All rights reserved'
 description      'Installs/Configures apache2liatrio'
