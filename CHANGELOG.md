@@ -3,6 +3,10 @@ apache2-liatrio CHANGELOG
 
 This file is used to list changes made in each version of the apache2-liatrio cookbook.
 
+0.2.0
+-----
+- Drew Holt - added minitest-handler and pinned dependency versions in metadata.rb
+
 0.1.0
 -----
 - Drew Holt - Initial release of apache2-liatrio
