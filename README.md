@@ -1,6 +1,6 @@
 apache2-liatrio Cookbook
 ========================
-This is a simple example wrapper cookbook that installs apache2.
+This is a simple example wrapper cookbook that installs apache2 and configures it to serve Hygieia UI and reverse proxy Hygieia API.
 
 Requirements
 ------------
