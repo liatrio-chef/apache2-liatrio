@@ -4,9 +4,9 @@ This is a simple example wrapper cookbook that installs apache2.
 
 Requirements
 ------------
-Berkshelf
+Chef Development Kit Version: 0.16.28
 
-Vagrant
+Vagrant 1.8.4
 
 Usage
 -----
